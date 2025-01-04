@@ -17,7 +17,7 @@
 
 ###
 
-<div style="align: left; padding-left: 20px">
+<div style="align:left; padding-left:20px; margin-bottom:20px">
   <a href="https://www.linkedin.com/in/vedansh2001/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -29,8 +29,16 @@
   </a>
 </div>
 
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedansh2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedansh2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
 <div style="display:flex; justify-content:space-between; align-items: center; margin-bottom: 30px; margin-top: 15px">
-<img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
@@ -38,36 +46,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="50" alt="next logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
-  style="filter: invert(1); height:60" />
+  <img src="https://img.shields.io/badge/next-%23404d59?style=for-the-badge&logo=next&logoColor=white" alt="Next.js">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="node.js logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ex-%23404d59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" 
-     style="filter: invert(1); height:60" />
+  <img src="https://img.shields.io/badge/kafka-%23404d59?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Express.js">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
-     style="filter: invert(1); height:60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="AWS logo"  />
+  <img width="12" />  
+  <img src="https://img.shields.io/badge/Prisma-%23404d59?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma logo">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo"  />
-  
-  
-  
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedansh2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedansh2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=vedansh2001&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" /> -->
